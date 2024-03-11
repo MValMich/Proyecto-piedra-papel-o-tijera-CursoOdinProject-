@@ -1,0 +1,39 @@
+body {
+    background-image: url("IMG/fotoBackGround2.jpg")
+}
+#divContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color: yellow;
+    font-size: 60px;
+}
+label {
+    font-size: 40px;
+    color: yellow;
+}
+input {
+    font-size: 40px;
+    width: 25%;
+}
+button {
+    font-size: 40PX;
+}
+button:hover {
+    background-color: blue;
+    color:yellow
+}
+h2 {
+    font-size: 35px;
+    color: yellow;
+}
+ul {
+    font-size: 30px;
+    color: yellow;
+}
+p {
+    font-size: 40px;
+    color: yellow;
+}
