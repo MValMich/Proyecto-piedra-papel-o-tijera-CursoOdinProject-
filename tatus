@@ -1,0 +1,11 @@
+[33mcommit 54b83180395b921b0c31b538998d68ba8ffc24bf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MValMich <ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIId/a1uZVx9qurXnWldA7h3BQ4ON3OTVGnBmr2+ZhMsP marvalmich@gmail.com>
+Date:   Thu Feb 8 14:49:27 2024 -0300
+
+    SUJETO: Se codifica 2 Funciones y un bucle For: 1. obtenerJugadaAletoria() y 2. obtenerGanador()+For. OBJETO: Son Funciones necesarias para obtener las elexiones aleatorias del pc; compararlos con las elecciones del jugador y retornar quien fue el ganador (jugador o pc)
+
+[33mcommit 20719ba53c693d578ae20b39ccbfce1e5884e533[m
+Author: MValMich <155995288+MValMich@users.noreply.github.com>
+Date:   Tue Feb 6 13:19:23 2024 -0300
+
+    Initial commit
